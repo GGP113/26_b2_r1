@@ -161,34 +161,36 @@ Log de la consola de Spring Boot (Conexión exitosa)
 ```
 Evidencia de las pruebas de la API (CRUD)
 ```
-
+```
+POST
+```
 
 ![POST](images/punto5A_1.png)
 ![POST](images/punto5A_2.png)
 ![POST](images/punto5A_3.png)
 
 ```
-
+GET All
 ```
 ![GET](images/punto5B.png)
 
 ```
-
+GET By ID
 ```
 ![GET by ID](images/punto5C.png)
 
 ```
-
+GET by Email
 ```
 ![GET by Email](images/punto5D.png)
 
 ```
-
+PUT
 ```
 ![PUT](images/punto5E.png)
 
 ```
-
+DELETE
 ```
 ![DELETE](images/punto5F.png)
 
