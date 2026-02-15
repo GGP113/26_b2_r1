@@ -131,3 +131,74 @@ src/main/java/com/cesde/pi
 ├── dto           # Objetos de Transferencia de Datos
 └── exception     # Manejo de Excepciones Globales
 ```
+
+## Actividad 1
+## Nombre: Paula Andrea Gil Vargas
+
+## Punto 2
+
+```
+Enlace a la instancia de base de datos en Prisma.io
+```
+![Prisma Dashboard](/images/punto2.png)
+
+## Punto 3
+
+```
+Configuración de la base de datos
+```
+![Configuración DB](/images/punto3.png)
+
+## Punto 4
+
+```
+Log de la consola de Spring Boot (Conexión exitosa)
+```
+
+![Log Spring Boot](images/punto4.png)
+
+## Punto 5
+```
+Evidencia de las pruebas de la API (CRUD)
+```
+
+
+![POST](images/punto5A_1.png)
+![POST](images/punto5A_2.png)
+![POST](images/punto5A_3.png)
+
+```
+
+```
+![GET](images/punto5B.png)
+
+```
+
+```
+![GET by ID](images/punto5C.png)
+
+```
+
+```
+![GET by Email](images/punto5D.png)
+
+```
+
+```
+![PUT](images/punto5E.png)
+
+```
+
+```
+![DELETE](images/punto5F.png)
+
+```
+```
+
+## Punto 6
+```
+Ejecución de Pruebas Unitarias y de Integración
+```
+
+![Tests](images/punto6.png)
+
